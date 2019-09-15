@@ -18,5 +18,5 @@
 ```
 
 #### Login (only once)
-- Run getCookie() function to login fb then generate __cookieFile.json__
+- Run getCookie() function to login fb then generate __appstate.json__
 - Get app code or OTP then fill out in console
